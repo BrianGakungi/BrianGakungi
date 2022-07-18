@@ -63,8 +63,7 @@ I'm an accountant and data scientist looking to hack the financial analysis worl
 
 <br/>  
 
-### Visitors  
-![Profile views counter](https://komarev.com/ghpvc/?username=BrianGakungi&&style=flat-square)    
+  
 
 <br/>  
 
