@@ -16,8 +16,7 @@ I'm an accountant and data scientist looking to hack the financial analysis worl
   
 
 <br/>  
-
-## Rapidfire  
+  
 <table><tr><td valign="top" width="50%">
 
 
@@ -72,6 +71,6 @@ I'm an accountant and data scientist looking to hack the financial analysis worl
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 
