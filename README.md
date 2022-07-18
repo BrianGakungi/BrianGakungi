@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/93122502/172062284-3fe3dbe3-4cef-4b1c-b8fa-0765cc1111b6.png)
+![image](https://github.com/BrianGakungi/BrianGakungi/blob/main/header.png?raw=true)
 
 
 ### # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
