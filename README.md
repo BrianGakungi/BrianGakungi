@@ -11,8 +11,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://st2.depositphotos.com/1144386/7438/v/450/depositphotos_74381297-stock-illustration-modern-twitter-bird-icon.jpg 
+[2.2]: https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png 
 
 <!-- Links to your social media accounts -->
 
