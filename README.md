@@ -5,5 +5,5 @@
 My name is John Brian an accountant and data scientist looking to hack the financial analysis world.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<BrianGakungi>&theme=<THEME_NAME>" />
 
