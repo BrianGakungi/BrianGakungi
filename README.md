@@ -17,35 +17,13 @@ I'm an accountant and data scientist looking to hack the financial analysis worl
 
 <br/>  
 
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 
 
 ### Currently  
-- 🔭 I’m undertaking Financial Modeling & Valuation Analyst training through the Corporate Finance Institute  
-  
-
--   
-  
-
--   
-  
-
--   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
+- 🔭 I’m undertaking Financial Modeling & Valuation Analyst training through the Corporate Finance Institute    
 
 
 ## Languages and Tools  
